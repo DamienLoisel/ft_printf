@@ -2,4 +2,4 @@
 
 ## **Description**
 
-Le projet **ft_printf** de l'école 42 consiste à recréer une version simplifiée de la fonction standard **printf** en C. L'objectif est d'implémenter un ensemble de fonctionnalités de formatage permettant d'afficher divers types de données (entiers, chaînes, caractères, etc.).
+The **ft_printf** project at 42 involves recreating a simplified version of the standard **printf** function in C. The goal is to implement a set of formatting features to display various types of data (integers, strings, characters, etc.).
